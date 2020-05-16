@@ -33,6 +33,6 @@ The plot below shows the max score of the two agents throughout training. The en
 ### Potential Future Work
 There is a high amount of fluctuation in the scores for this task, presenting an opportunity for improvement. Other approaches could be invesigated for improved stability. For example, [Proximal Policy Optimisation (PPO)](https://arxiv.org/pdf/1707.06347.pdf). 
 
-Distributed algorithms, such as [Distributed Distributional Deep Deterministic Policy Gradient (D4PG)](https://openreview.net/pdf?id=SyZipzbCb) may possibly improve performance.
+Distributed algorithms, such as [Distributed Distributional Deep Deterministic Policy Gradient (D4PG)](https://openreview.net/pdf?id=SyZipzbCb) may possibly improve performance, though this implementation trains fairly quickly.
 
 
