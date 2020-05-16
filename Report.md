@@ -1,6 +1,6 @@
 [//]: # (Image References)
 
-[image2]: scores_max.png "Max scores"
+[image1]: scores_max.png "Max scores"
 
 
 ### Introduction
